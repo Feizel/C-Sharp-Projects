@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MadLibGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1219c4f6f2c9f850d3c4529bcb6d3011d9d3ede9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+269e21a5442633382f6f0915d8d432cdedbad616")]
 [assembly: System.Reflection.AssemblyProductAttribute("MadLibGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MadLibGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
