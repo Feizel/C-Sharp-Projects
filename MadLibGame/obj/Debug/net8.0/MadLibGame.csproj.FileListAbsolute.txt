@@ -1,0 +1,15 @@
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\bin\Debug\net8.0\MadLibGame.exe
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\bin\Debug\net8.0\MadLibGame.deps.json
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\bin\Debug\net8.0\MadLibGame.runtimeconfig.json
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\bin\Debug\net8.0\MadLibGame.dll
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\bin\Debug\net8.0\MadLibGame.pdb
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\MadLibGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\MadLibGame.AssemblyInfoInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\MadLibGame.AssemblyInfo.cs
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\MadLibGame.csproj.CoreCompileInputs.cache
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\MadLibGame.sourcelink.json
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\MadLibGame.dll
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\refint\MadLibGame.dll
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\MadLibGame.pdb
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\MadLibGame.genruntimeconfig.cache
+C:\Users\Feizel\Desktop\PortFolio\C# Projects\MadLibGame\obj\Debug\net8.0\ref\MadLibGame.dll
