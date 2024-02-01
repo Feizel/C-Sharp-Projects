@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Feizel\\Desktop\\PortFolio\\C# Projects\\MadLibGame\\MadLibGame.csproj",
-      "projectName": "MadLibGame",
-      "projectPath": "C:\\Users\\Feizel\\Desktop\\PortFolio\\C# Projects\\MadLibGame\\MadLibGame.csproj",
+      "projectUniqueName": "C:\\Users\\Feizel\\Desktop\\PortFolio\\C# Projects\\Repo\\Repo.csproj",
+      "projectName": "Repo",
+      "projectPath": "C:\\Users\\Feizel\\Desktop\\PortFolio\\C# Projects\\Repo\\Repo.csproj",
       "packagesPath": "C:\\Users\\Feizel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Feizel\\Desktop\\PortFolio\\C# Projects\\MadLibGame\\obj\\",
+      "outputPath": "C:\\Users\\Feizel\\Desktop\\PortFolio\\C# Projects\\Repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Feizel\\AppData\\Roaming\\NuGet\\NuGet.Config",
